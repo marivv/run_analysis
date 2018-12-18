@@ -1,0 +1,15 @@
+Original data: 
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+
+1)	Merged all files
+2)	Selected columns with mean and standard deviation
+3)	One row for each subject
+4)	One variable per column
+5)	Tidy data
+1.	Subject: 1 to 30
+2.	6 Activities:
+a.	Walking, Walking_upstairs, Walking_downstairs, sitting, standing, laying
+3.	Columns containg average (mean) and standard deviation 
+a.	Accelerometer: axis X, Y, Z – units gravity (g)
+b.	Gyroscope: angular velocity (radians/second)
